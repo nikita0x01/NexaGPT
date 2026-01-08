@@ -1,4 +1,4 @@
-# NexaGPT 🚀
+# NexaGPT 
 
 NexaGPT is a **full-stack conversational AI application** powered by GPT-based APIs. It enables users to interact with an intelligent chatbot through a secure and scalable backend built with **Node.js and Express**, and a modern frontend using **React + Vite**.
 
@@ -6,13 +6,13 @@ This repository focuses primarily on the **backend architecture**, including aut
 
 ---
 
-## 🧠 Project Overview
+##  Project Overview
 
 NexaGPT provides conversational AI functionality with secure user authentication and personalized settings. The backend exposes RESTful APIs that manage users, chat sessions, and preferences while integrating seamlessly with the frontend.
 
 ---
 
-## ✨ Features
+##  Features
 
 - **JWT Authentication**
   - Secure user registration and login
@@ -33,7 +33,7 @@ NexaGPT provides conversational AI functionality with secure user authentication
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 ### Backend
 - **Node.js** – JavaScript runtime
@@ -50,7 +50,7 @@ NexaGPT provides conversational AI functionality with secure user authentication
 
 ---
 
-## 🔐 Authentication (JWT)
+##  Authentication (JWT)
 
 ### Registration
 **POST** `/api/auth/register`  
@@ -78,12 +78,17 @@ Registers a new user with username and password.
 -Continuous deployment using GitHub Actions
 -Ensures code quality and reliable deployments
 
-## Project SS
-![Nexagpt Interface](<img width="1600" height="784" alt="image" src="https://github.com/user-attachments/assets/6a950743-ef81-474e-81e8-410ef13a9bff" />
-)
-![Chat Interface](<img width="1280" height="677" alt="image" src="https://github.com/user-attachments/assets/c1400651-8c96-4990-9480-ab8c4ba1b03f" />
-)
-![Theme Toggle](<img width="1600" height="733" alt="image" src="https://github.com/user-attachments/assets/2df668b9-0d5c-4c56-9d3e-7061ad507efa" />
-)
-![Login / Signup Page](<img width="1600" height="784" alt="image" src="https://github.com/user-attachments/assets/d1e16874-fff2-4dd2-bee4-c560af72f75f" />
-)
+##  Project Screenshots
+
+### NexaGPT Interface
+![NexaGPT Interface](https://github.com/user-attachments/assets/6a950743-ef81-474e-81e8-410ef13a9bff)
+
+### Chat Interface
+![Chat Interface](https://github.com/user-attachments/assets/c1400651-8c96-4990-9480-ab8c4ba1b03f)
+
+### Theme Toggle
+![Theme Toggle](https://github.com/user-attachments/assets/2df668b9-0d5c-4c56-9d3e-7061ad507efa)
+
+### Login / Signup Page
+![Login / Signup Page](https://github.com/user-attachments/assets/d1e16874-fff2-4dd2-bee4-c560af72f75f)
+
