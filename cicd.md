@@ -32,31 +32,27 @@ The CI/CD pipeline performs the following steps:
 ###  GitHub Actions – Successful Workflow Run
 This screenshot shows the **successful execution** of the GitHub Actions pipeline with all steps completed.
 
-![GitHub Actions Success](<img width="1448" height="715" alt="Screenshot 2026-01-08 211533" src="https://github.com/user-attachments/assets/7a3bacac-0d03-4747-b7d9-b216d04a9256" />
-)
+![GitHub Actions Success](https://github.com/user-attachments/assets/7a3bacac-0d03-4747-b7d9-b216d04a9256)
 
 ---
 
 ###  GitHub Actions Workflow Configuration
 This screenshot shows the **workflow YAML file** defining build and deployment steps.
 
-![CI/CD Workflow File](<img width="1170" height="798" alt="image" src="https://github.com/user-attachments/assets/22f81a31-e480-4eee-b252-5f876b48ec5e" />
-)
+![CI/CD Workflow File](https://github.com/user-attachments/assets/22f81a31-e480-4eee-b252-5f876b48ec5e)
 
 ---
 
 ##  AWS EC2 Instance (Running)
 This screenshot confirms that the **EC2 instance is running** and actively hosting the application.
 
-![AWS EC2 Instance](<img width="1550" height="291" alt="Screenshot 2026-01-08 211708" src="https://github.com/user-attachments/assets/8f97e253-4d83-4aeb-b4d6-da93357cb576" />
-)
+![AWS EC2 Instance](https://github.com/user-attachments/assets/8f97e253-4d83-4aeb-b4d6-da93357cb576)
 
 ---
 ##  MongoDB Cluster Running
 This screenshot confirms that the **MongoDB cluster is active and running**, ensuring the database services are operational and connected to the application.
 
-![MongoDB Cluster Running](<img width="716" height="340" alt="Screenshot 2026-01-08 212607" src="https://github.com/user-attachments/assets/5dbdba23-52e1-4c55-9cb6-730fd316f778" />
-)
+![MongoDB Cluster Running](https://github.com/user-attachments/assets/5dbdba23-52e1-4c55-9cb6-730fd316f778)
 
 ---
 
